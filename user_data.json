@@ -1,0 +1,31 @@
+{
+    "537809880": {
+        "costs": {
+            "other": [],
+            "food": [
+                {
+                    "amount": 250.0,
+                    "comment": "dinner",
+                    "date": "2024-05-10"
+                }
+            ],
+            "sport": [
+                {
+                    "amount": 300.0,
+                    "comment": "gym",
+                    "date": "2024-05-02"
+                }
+            ]
+        },
+        "income": {
+            "salary": [],
+            "free": [
+                {
+                    "amount": 350.0,
+                    "comment": "lesson",
+                    "date": "2024-05-10"
+                }
+            ]
+        }
+    }
+}
